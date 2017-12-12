@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+GibViewTool::Renderer.copyright 'Paul Gibbs', 'All rights reserved'
+```
 
 ## Development
 
